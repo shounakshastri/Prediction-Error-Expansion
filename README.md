@@ -10,12 +10,12 @@ This perticular algorithm is one of the first to use this technique and forms th
 
 ## Description of the files in this repo
 This repo contains 6 files.
-  1. Generates the cross prediction image and the binary location map - crossPrediction.m
-  2. Generates the dot prediction image and the binary location map - dotPrediction.m
-  3. The Embedding Function - EmbeddingHistogramShifting.m
-  4. The Extraction Function - ExtractionHistogramShifting.m
-  5. The main file - SingleImagePEEWithFunctions.m
-  6. Citation Details - Citation.bib
+  1. crossPrediction.m - Generates the cross prediction image and the binary location map
+  2. dotPrediction.m - Generates the dot prediction image and the binary location map
+  3. EmbeddingHistogramShifting.m - Function to embed the secret data
+  4. ExtractionHistogramShifting.m - Function to extract the secret data
+  5. SingleImagePEEWithFunctions.m - The main file
+  6. Citation.bib - Citation Details
   
 The functions have directions for use in the files. 
 
