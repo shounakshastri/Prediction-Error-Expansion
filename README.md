@@ -1,6 +1,6 @@
 This repo contains MATLAB implementation of the basic Prediction Error Expansion RDH technique.
 
-If you are using these files, please cite the original outhors in your document using the accompanying bibtex file.
+If you are using these files, please cite the original authors in your document using the accompanying bibtex file.
 
 ## Prediction-Error-Expansion (PEE)
 
