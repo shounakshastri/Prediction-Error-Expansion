@@ -3,7 +3,7 @@ function [I_stego, noBitsEmbedded] = EmbeddingHistogramShifting(I_pred, data, T,
 % errors. T is the embedding/extraction threshold and p is a binary predicion map. 
 % The map indicates the pixels which have been modified by the prediction.
 % This helps in reducing the lines that the function has to go through to
-% extract the data. This also helps make the function more flexible as in
+% embed the data. This also helps make the function more flexible as in
 % it will apply the embedding process to all the bits which have p = 1.
 
 [m, n] = size(I_pred);
